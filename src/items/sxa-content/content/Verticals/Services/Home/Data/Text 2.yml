@@ -14,7 +14,7 @@ Languages:
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <div class="ck-content"><ol><li>Full service range including</li><li>Technical skills, design, business</li><li>Themselves in the merchant's</li></ol></div>
+        <div class="ck-content"><ol><li><span class="ck-list-bogus-paragraph">Full service range including</span></li><li><span class="ck-list-bogus-paragraph">Technical skills, design, business</span></li><li><p><span class="ck-list-bogus-paragraph">Themselves in the merchant's</span></p><p>&nbsp;</p></li></ol></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e5a5b84-ecf5-4af0-b821-8e440e9cc2ea"
+      Value: "08bb619a-a6f3-46d4-8349-6f77e60f5d9c"
