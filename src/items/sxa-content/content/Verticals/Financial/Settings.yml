@@ -3,7 +3,6 @@ ID: "6c9392f9-7c16-44e9-b198-6ebe5a47067d"
 Parent: "08d9417d-5071-46ff-896b-eb76b0790526"
 Template: "3784a738-6d25-4283-98e2-759db694efd7"
 Path: /sitecore/content/Verticals/Financial/Settings
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain
@@ -11,6 +10,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "1864e99d-c29a-40bf-96e0-b3e7896a013b"
+  Hint: UseLanguageSpecificLayout
+  Value: 
 - ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
   Hint: RouteTemplateName
   Value: Settings Route
@@ -60,4 +62,9 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c74297be-5e61-40c9-96df-6044a8a2f90b"
+      Value: "5d31c844-b540-4c04-b9f9-4222cd07d927"
+    - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
+      Hint: ComponentDataSourceTemplates
+      Value: |
+        {C0943942-AE0F-4205-86FA-84884CCE4A53}
+        {4900D7E5-61B0-483A-A9D6-69419D4D5982}

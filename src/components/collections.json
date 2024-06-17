@@ -83,8 +83,15 @@
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": null,
         "publishedAt": "2023-06-08T14:31:06.461Z",
-        "modifiedAt": "2024-06-14T03:36:12.783Z",
-        "modifiedBy": {},
+        "modifiedAt": "2023-06-09T10:17:20.928Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
         "bundles": []
       },
       {
@@ -119,9 +126,59 @@
     "id": "default",
     "name": "Default collection",
     "isDefault": true,
-    "orderIdx": null,
+    "orderIdx": "",
     "createdAt": "2023-06-28T12:45:53.685Z",
     "modifiedAt": "2023-06-28T12:45:53.685Z",
     "components": []
+  },
+  {
+    "libraryId": "generated",
+    "id": "nOzUW9W9Wt",
+    "name": "UWA Demo",
+    "isDefault": false,
+    "orderIdx": "",
+    "createdAt": "2024-06-17T02:00:20.547Z",
+    "modifiedAt": "2024-06-17T02:00:20.547Z",
+    "components": [
+      {
+        "libraryId": "generated",
+        "id": "s4hCorslvr",
+        "collectionId": "nOzUW9W9Wt",
+        "name": "Micks Promo CTA",
+        "description": "Promo CTA",
+        "status": "changed",
+        "versionCount": 3,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "c0943942ae0f420586fa84884cce4a53"
+        ],
+        "createdAt": "2024-06-17T03:23:03.153Z",
+        "stagedAt": null,
+        "publishedAt": "2024-06-17T03:28:02.245Z",
+        "modifiedAt": "2024-06-17T03:43:27.426Z",
+        "modifiedBy": {
+          "id": "62bd16cf35ef40880a4f3bd4",
+          "name": "Mick Wingert",
+          "email": "mick.wingert@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/9382023174746d6cca35d7b99f6cc738?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmi.png",
+          "givenName": "Mick",
+          "familyName": "Wingert"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "s4hCorslvr",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-06-17T03:23:16.395Z",
+            "modifiedAt": "2024-06-17T03:23:16.395Z"
+          }
+        ]
+      }
+    ]
   }
 ]

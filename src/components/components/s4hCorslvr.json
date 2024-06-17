@@ -1,0 +1,183 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "6pgjdee7H5",
+    "componentId": "s4hCorslvr",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "0BWGf",
+    "revision": 1,
+    "model": "",
+    "view": "<style data-format-version=\"30\"></style><section class=\"-grid--custom\" data-instance-id=\"efJhRaEw4R\"></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-06-17T03:42:44.357Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-06-17T03:43:27.426Z",
+    "modifiedBy": {
+      "id": "62bd16cf35ef40880a4f3bd4",
+      "name": "Mick Wingert",
+      "givenName": "Mick",
+      "familyName": "Wingert",
+      "email": "mick.wingert@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/9382023174746d6cca35d7b99f6cc738?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "cTIHFyEWRq",
+    "componentId": "s4hCorslvr",
+    "name": "Original",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 19,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 79nwfXEjmr */ .-grid--custom[data-instance-id=\"79nwfXEjmr\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 8; grid-column-end: 13; grid-row: 1; grid-row-end: 9; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 3; grid-row-end: 5; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(4):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 5; grid-row-end: 7; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(5):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 7; grid-row-end: 9; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"79nwfXEjmr\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":8},\"to\":{\"row\":9,\"column\":13},\"order\":0},{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":8},\"order\":0},{\"from\":{\"row\":3,\"column\":1},\"to\":{\"row\":5,\"column\":8},\"order\":0},{\"from\":{\"row\":5,\"column\":1},\"to\":{\"row\":7,\"column\":8},\"order\":0},{\"from\":{\"row\":7,\"column\":1},\"to\":{\"row\":9,\"column\":8},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"79nwfXEjmr\"><div><div class=\"-block--media\" data-path-src=\"c0943942ae0f420586fa84884cce4a53.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h1><var data-path=\"c0943942ae0f420586fa84884cce4a53.Title\"></var></h1></div><div><p><var data-path=\"c0943942ae0f420586fa84884cce4a53.Text\"></var></p></div><a class=\"-button\" data-path-href=\"c0943942ae0f420586fa84884cce4a53.Link.href\" href=\"\"><var data-path=\"c0943942ae0f420586fa84884cce4a53.Link.text\"></var></a><div></div></section>",
+    "diff": {},
+    "breakpointIds": [
+      "xxlarge",
+      "xlarge",
+      "large"
+    ],
+    "datasourceIds": [
+      "c0943942ae0f420586fa84884cce4a53"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-06-17T03:23:16.881Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-06-17T03:41:53.958Z",
+    "modifiedBy": {
+      "id": "62bd16cf35ef40880a4f3bd4",
+      "name": "Mick Wingert",
+      "givenName": "Mick",
+      "familyName": "Wingert",
+      "email": "mick.wingert@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/9382023174746d6cca35d7b99f6cc738?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "cTIHFyEWRq",
+    "componentId": "s4hCorslvr",
+    "name": "Original",
+    "description": "",
+    "status": "published",
+    "orderIdx": "03qKK",
+    "revision": 13,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 79nwfXEjmr */ .-grid--custom[data-instance-id=\"79nwfXEjmr\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 8; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 3; grid-row-end: 5; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(4):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 5; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"79nwfXEjmr\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":8},\"to\":{\"row\":6,\"column\":13},\"order\":0},{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":8},\"order\":0},{\"from\":{\"row\":3,\"column\":1},\"to\":{\"row\":5,\"column\":8},\"order\":0},{\"from\":{\"row\":5,\"column\":1},\"to\":{\"row\":6,\"column\":8},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"79nwfXEjmr\"><div><div class=\"-block--media\" data-path-src=\"c0943942ae0f420586fa84884cce4a53.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h1><var data-path=\"c0943942ae0f420586fa84884cce4a53.Title\"></var></h1></div><div><p><var data-path=\"c0943942ae0f420586fa84884cce4a53.Text\"></var></p></div><a class=\"-button\" data-path-href=\"c0943942ae0f420586fa84884cce4a53.Link.href\" href=\"\"><var data-path=\"c0943942ae0f420586fa84884cce4a53.Link.text\"></var></a></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "c0943942ae0f420586fa84884cce4a53"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-06-17T03:23:16.881Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-06-17T03:28:02.245Z",
+    "modifiedBy": {
+      "id": "62bd16cf35ef40880a4f3bd4",
+      "name": "Mick Wingert",
+      "givenName": "Mick",
+      "familyName": "Wingert",
+      "email": "mick.wingert@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/9382023174746d6cca35d7b99f6cc738?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "cTIHFyEWRq",
+    "componentId": "s4hCorslvr",
+    "name": "Original",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "03qKK",
+    "revision": 13,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 79nwfXEjmr */ .-grid--custom[data-instance-id=\"79nwfXEjmr\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 8; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 1; grid-row-end: 3; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 3; grid-row-end: 5; order: 0; position: relative; } .-grid--custom[data-instance-id=\"79nwfXEjmr\"] > :nth-child(4):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 5; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"79nwfXEjmr\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":8},\"to\":{\"row\":6,\"column\":13},\"order\":0},{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":3,\"column\":8},\"order\":0},{\"from\":{\"row\":3,\"column\":1},\"to\":{\"row\":5,\"column\":8},\"order\":0},{\"from\":{\"row\":5,\"column\":1},\"to\":{\"row\":6,\"column\":8},\"order\":0}]}} */</style><section class=\"-grid--custom\" data-instance-id=\"79nwfXEjmr\"><div><div class=\"-block--media\" data-path-src=\"c0943942ae0f420586fa84884cce4a53.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h1><var data-path=\"c0943942ae0f420586fa84884cce4a53.Title\"></var></h1></div><div><p><var data-path=\"c0943942ae0f420586fa84884cce4a53.Text\"></var></p></div><a class=\"-button\" data-path-href=\"c0943942ae0f420586fa84884cce4a53.Link.href\" href=\"\"><var data-path=\"c0943942ae0f420586fa84884cce4a53.Link.text\"></var></a></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [
+      "c0943942ae0f420586fa84884cce4a53"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-06-17T03:23:16.881Z",
+    "deletedAt": "2024-06-17T03:33:19.696Z",
+    "modifiedAt": "2024-06-17T03:28:02.245Z",
+    "modifiedBy": {
+      "id": "62bd16cf35ef40880a4f3bd4",
+      "name": "Mick Wingert",
+      "givenName": "Mick",
+      "familyName": "Wingert",
+      "email": "mick.wingert@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/9382023174746d6cca35d7b99f6cc738?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmi.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "V5k7DA4hYA",
+    "componentId": "s4hCorslvr",
+    "name": "Mobile",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 7,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: 5sbpl4QssT */ .-grid--custom[data-instance-id=\"5sbpl4QssT\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(24px,36px) minmax(24px,36px) minmax(24px,36px) minmax(24px,24px) minmax(24px,24px) minmax(24px,24px) minmax(24px,24px) minmax(24px,24px) minmax(24px,24px) minmax(24px,24px) minmax(24px,24px) minmax(24px,36px) minmax(24px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"5sbpl4QssT\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 14; order: 0; position: relative; } .-grid--custom[data-instance-id=\"5sbpl4QssT\"] > :nth-child(2):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 8; grid-row-end: 10; order: 0; position: relative; } .-grid--custom[data-instance-id=\"5sbpl4QssT\"] > :nth-child(3):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 10; grid-row-end: 13; order: 0; position: relative; } .-grid--custom[data-instance-id=\"5sbpl4QssT\"] > :nth-child(4):not(._._._._._._#_) { grid-column: 1; grid-column-end: 8; grid-row: 12; grid-row-end: 14; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"5sbpl4QssT\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":24,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":24,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":14,\"column\":13},\"order\":0},{\"from\":{\"row\":8,\"column\":1},\"to\":{\"row\":10,\"column\":8},\"order\":0},{\"from\":{\"row\":10,\"column\":1},\"to\":{\"row\":13,\"column\":8},\"order\":0},{\"from\":{\"row\":12,\"column\":1},\"to\":{\"row\":14,\"column\":8},\"order\":0}]}} */ /* --- */  /* Type: media Id: F8oXX9ZOn_ Instance Id: 57HUJt1hry */ .-media--[data-instance-id=\"57HUJt1hry\"][class*=\"-block--media\"]:not(._._._._._._#_) { width: auto; flex-grow: 0 !important; flex-shrink: 0 !important; } .-media--[data-instance-id=\"57HUJt1hry\"] > picture:not(._._._._._._#_) { position: relative; overflow: hidden; height: 300px; } .-media--[data-instance-id=\"57HUJt1hry\"] > picture > img:not(._._._._._._#_) { object-fit: cover; object-position: 50% 50%; } /* Data: {\"type\":\"media\",\"details\":{\"title\":\"\",\"description\":\"\",\"id\":\"F8oXX9ZOn_\",\"exampleContent\":null,\"instanceId\":\"57HUJt1hry\"},\"props\":{\"width\":null,\"height\":{\"value\":300,\"unit\":\"px\"},\"objectFit\":\"cover\",\"objectPositionX\":{\"value\":50,\"unit\":\"%\"},\"objectPositionY\":{\"value\":50,\"unit\":\"%\"}}} */</style><section class=\"-grid--custom\" data-instance-id=\"5sbpl4QssT\"><div><div class=\"-block--media -media--\" data-instance-id=\"57HUJt1hry\" data-path-src=\"c0943942ae0f420586fa84884cce4a53.Image.src\"><picture class=\"-image--foreground\"><img src=\"https://feaasstatic.blob.core.windows.net/assets/sample/image.svg\" /></picture></div></div><div><h1><var data-path=\"c0943942ae0f420586fa84884cce4a53.Title\"></var></h1></div><div><p><var data-path=\"c0943942ae0f420586fa84884cce4a53.Text\"></var></p></div><a class=\"-button\" data-path-href=\"c0943942ae0f420586fa84884cce4a53.Link.href\" href=\"\"><var data-path=\"c0943942ae0f420586fa84884cce4a53.Link.text\"></var></a></section>",
+    "diff": {},
+    "breakpointIds": [
+      "medium",
+      "small",
+      "xsmall"
+    ],
+    "datasourceIds": [
+      "c0943942ae0f420586fa84884cce4a53"
+    ],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-06-17T03:33:42.405Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-06-17T03:35:08.9Z",
+    "modifiedBy": {
+      "id": "62bd16cf35ef40880a4f3bd4",
+      "name": "Mick Wingert",
+      "givenName": "Mick",
+      "familyName": "Wingert",
+      "email": "mick.wingert@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/9382023174746d6cca35d7b99f6cc738?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fmi.png"
+    }
+  }
+]
